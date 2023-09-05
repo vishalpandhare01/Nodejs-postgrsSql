@@ -1,0 +1,15 @@
+- npm install -g npm
+- psql 
+- CREATE DATABASE prisma;
+- npm init
+- npm install express node
+- npm install nodemon -D
+- nodemon index.js
+- npm install dotenv
+- postgres://YourUserName:YourPassword@localhost:5432/your-DB-name
+- npm install @prisma/client
+- npm install prisma -D
+- npx prisma init
+- npx prisma generate
+- npx prisma migrate dev
+- npx prisma studio
